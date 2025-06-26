@@ -1,5 +1,3 @@
-//Unbeatable Tic-Tac-Toe AI
-//Minimax with Alpha-Beta pruning
 
 import java.util.Scanner;
 import java.util.Arrays;
